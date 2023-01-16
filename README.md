@@ -1,4 +1,5 @@
-I create my first JS Memory Game
+I created my first JS Memory Game.
+
 
 https://bengin34.github.io/memoryGameJs/
 
